@@ -1,0 +1,100 @@
+PUB-0001,David Hume,Manila,Bus Operator,10,34,9171234567
+PUB-0002,Jane Austen,Makati City,Bus Operator,6,45,9178765432
+PUB-0003,Albert Einstein,Cebu City,Bus Operator,11,28,9179876543
+PUB-0004,Marie Curie,Davao City,Bus Operator,10,39,9176543210
+PUB-0005,Isaac Newton,Quezon City,Bus Operator,4,52,9152109876
+PUB-0006,Charles Dickens,Pasay City,Bus Operator,7,41,9154321098
+PUB-0007,Galileo Galilei,Iloilo City,Bus Operator,11,32,9157654321
+PUB-0008,William Shakespeare,Baguio City,Bus Operator,11,29,9159876543
+PUB-0009,Fyodor Dostoevsky,Bacolod City,Bus Operator,11,47,9172109876
+PUB-0010,Leonardo da Vinci,Cebu City,Bus Operator,6,36,9174321098
+PUB-0011,Nikola Tesla,Quezon City,Bus Operator,9,31,9177654321
+PUB-0012,Charles Darwin,Makati City,Bus Operator,5,42,9179876543
+PUB-0013,Pablo Picasso,Manila,Bus Operator,10,25,9172109876
+PUB-0014,Vincent van Gogh,Quezon City,Bus Operator,6,38,9174321098
+PUB-0015,Sigmund Freud,Manila,Bus Operator,9,49,9177654321
+PUB-0016,Emily Dickinson,Quezon City,Bus Operator,7,33,9179876543
+PUB-0017,Oscar Wilde,Quezon City,Bus Operator,7,27,9172109876
+PUB-0018,Friedrich Nietzsche,Quezon City,Bus Operator,6,44,9174321098
+PUB-0019,Rabindranath Tagore,Quezon City,Bus Operator,7,37,9177654321
+PUB-0020,Michelangelo,Quezon City,Bus Operator,4,51,9179876543
+PUB-0021,Virginia Woolf,Quezon City,Bus Operator,12,30,9172109876
+PUB-0022,Ernest Hemingway,Quezon City,Bus Operator,3,43,9174321098
+PUB-0023,Frida Kahlo,Quezon City,PUJ Operator,9,26,9177654321
+PUB-0024,Johann Wolfgang von Goethe,Mandaluyong City,PUJ Operator,3,48,9179876543
+PUB-0025,Maya Angelou,Pasig City,PUJ Operator,7,35,9172109876
+PUB-0026,Albert Camus,Mandaluyong City,PUJ Operator,10,40,9174321098
+PUB-0027,Gabriel Garcia Marquez,Mandaluyong City,PUJ Operator,10,28,9177654321
+PUB-0028,Toni Morrison,Pasig City,PUJ Operator,5,46,9179876543
+PUB-0029,Franz Kafka,Pasig City,PUJ Operator,9,32,9172109876
+PUB-0030,Jorge Luis Borges,Pasig City,PUJ Operator,11,50,9174321098
+PUB-0031,Haruki Murakami,Las Piñas City,PUJ Operator,5,24,9177654321
+PUB-0032,Fyodor Dostoyevsky,Las Piñas City,PUJ Operator,8,41,9179876543
+PUB-0033,Milan Kundera,Las Piñas City,PUJ Operator,10,29,9172109876
+PUB-0034,Chimamanda Ngozi Adichie,Quezon City,PUJ Operator,6,47,9174321098
+PUB-0035,Italo Calvino,Quezon City,PUJ Operator,9,36,9177654321
+PUB-0036,Salman Rushdie,Makati,PUJ Operator,7,52,9179876543
+PUB-0037,Isabel Allende,Pasay,PUJ Operator,8,25,9172109876
+PUB-0038,Orhan Pamuk,Pasay,PUJ Operator,8,38,9174321098
+PUB-0039,Kazuo Ishiguro,Quezon City,PUJ Operator,11,31,9177654321
+PUB-0040,Zadie Smith,Quezon City,PUJ Operator,5,43,9179876543
+PUB-0041,Jhumpa Lahiri,Mandaluyong,PUJ Operator,8,44,9174321098
+PUB-0042,Arundhati Roy,Quezon City,PUJ Operator,8,37,9177654321
+PUB-0043,Yukio Mishima,Taguig,PUJ Operator,5,51,9179876543
+PUB-0044,Kenzaburo Oe,Quezon City,PUJ Operator,9,30,9172109876
+PUB-0045,J.M. Coetzee,Quezon City,PUJ Operator,4,43,9174321098
+PUB-0046,Mario Vargas Llosa,Quezon City,PUJ Operator,8,26,9177654321
+PUB-0047,Naguib Mahfouz,Quezon City,PUJ Operator,5,48,9179876543
+PUB-0048,Chinua Achebe,Pateros,PUJ Operator,9,35,9172109876
+PUB-0049,Wole Soyinka,Bacoor,PUJ Operator,7,52,9174321098
+PUB-0050,Octavio Paz,Imus,PUJ Operator,12,28,9177654321
+PUB-0051,Gabriel García Márquez,Quezon City,PUJ Operator,8,46,9179876543
+PUB-0052,Toni Morrison,Quezon City,PUJ Operator,12,32,9172109876
+PUB-0053,Seamus Heaney,Caloocan,PUJ Operator,5,50,9174321098
+PUB-0054,Derek Walcott,Caloocan,PUJ Operator,8,24,9177654321
+PUB-0055,Nadine Gordimer,Quezon City,PUJ Operator,9,41,9179876543
+PUB-0056,V.S. Naipaul,Quezon City,PUJ Operator,8,29,9172109876
+PUB-0057,Doris Lessing,Quezon City,PUJ Operator,7,47,9174321098
+PUB-0058,Alice Munro,Malabon,PUJ Operator,13,36,9177654321
+PUB-0059,Patrick Modiano,Quezon City,PUJ Operator,8,52,9179876543
+PUB-0060,Orhan Pamuk,Makati,PUJ Operator,7,25,9172109876
+PUB-0061,Svetlana Alexievich,Quezon City,PUJ Operator,7,38,9174321098
+PUB-0062,Olga Tokarczuk,Quezon City,PUJ Operator,9,31,9177654321
+PUB-0063,Kazuo Ishiguro,Quezon City,PUJ Operator,8,43,9179876543
+PUB-0064,Abdulrazak Gurnah,Quezon City,PUJ Operator,11,27,9172109876
+PUB-0065,Annie Ernaux,Quezon City,PUJ Operator,7,44,9174321098
+PUB-0066,Yan Lianke,Quezon City,PUJ Operator,9,37,9177654321
+PUB-0067,Herta Müller,Quezon City,PUJ Operator,7,51,9179876543
+PUB-0068,Mo Yan,Quezon City,PUJ Operator,8,30,9172109876
+PUB-0069,Gao Xingjian,Quezon City,PUJ Operator,3,43,9174321098
+PUB-0070,J.M. Coetzee,Quezon City,PUJ Operator,8,26,9177654321
+PUB-0071,Ngũgĩ wa Thiongo,Quezon City,PUJ Operator,7,48,9179876543
+PUB-0072,Wole Soyinka,Quezon City,PUJ Operator,8,35,9172109876
+PUB-0073,Naguib Mahfouz,Quezon City,PUJ Operator,5,52,9174321098
+PUB-0074,Arundhati Roy,Quezon City,PUJ Operator,12,28,9177654321
+PUB-0075,Kiran Desai,Quezon City,PUJ Operator,7,46,9179876543
+PUB-0076,Jhumpa Lahiri,Quezon City,PUJ Operator,10,32,9172109876
+PUB-0077,Marilynne Robinson,Quezon City,PUJ Operator,4,50,9174321098
+PUB-0078,Cormac McCarthy,Quezon City,PUJ Operator,10,24,9177654321
+PUB-0079,Don DeLillo,Quezon City,PUJ Operator,9,41,9179876543
+PUB-0080,Philip Roth,Quezon City,PUJ Operator,7,29,9179778543
+PUB-0081,John Updike,Quezon City,PUJ Operator,3,47,9172109876
+PUB-0082,Saul Bellow,Quezon City,PUJ Operator,10,36,9174321098
+PUB-0083,Toni Morrison,Quezon City,PUJ Operator,4,52,9177654321
+PUB-0084,Alice Munro,Quezon City,PUJ Operator,8,25,9179876543
+PUB-0085,Margaret Atwood,Quezon City,PUJ Operator,10,38,9172109876
+PUB-0086,Kazuo Ishiguro,Quezon City,PUJ Operator,9,31,9174321098
+PUB-0087,Haruki Murakami,Valenzuela,PUJ Operator,6,43,9177654321
+PUB-0088,Orhan Pamuk,Quezon City,PUJ Operator,12,27,9179876543
+PUB-0089,Olga Tokarczuk,Mandaluyong,PUJ Operator,4,44,9172109876
+PUB-0090,Annie Ernaux,Quezon City,UV Operator,12,37,9174321098
+PUB-0091,Abdulrazak Gurnah,Quezon City,UV Operator,7,51,9177654321
+PUB-0092,Herta Müller,Quezon City,UV Operator,9,30,9179876543
+PUB-0093,Mo Yan,Quezon City,UV Operator,5,43,9172109876
+PUB-0094,Gao Xingjian,Quezon City,UV Operator,2,26,9174321098
+PUB-0095,Ngũgĩ wa Thiongo,Quezon City,UV Operator,9,48,9177654321
+PUB-0096,Arundhati Roy,Quezon City,UV Operator,11,35,9179876543
+PUB-0097,Kiran Desai,Quezon City,UV Operator,5,52,9172109876
+PUB-0098,Jhumpa Lahiri,Quezon City,UV Operator,9,28,9174321098
+PUB-0099,Marilynne Robinson,Makati,UV Operator,5,46,9177654321
+PUB-0100,Martha Nussbaum,Taguig,UV Operator,1,32,9172119967
