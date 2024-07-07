@@ -42,10 +42,10 @@ sqlite> .read tables_sqlite.sql
 To import the data for the four tables
 
 ```
-sqlite> .import "data/routes_data.csv" routes
-sqlite> .import "data/operators_data.csv" operators
-sqlite> .import "data/components_data.csv" components
-sqlite> .import "data/vehicles_data.csv" vehicles
+.import --csv "data/routes_data.csv" routes
+.import --csv "data/operators_data.csv" operators
+.import --csv "data/components_data.csv" components
+.import --csv "data/vehicles_data.csv" vehicles
 ```
 
 Life is good
@@ -65,4 +65,12 @@ TODO
 
 -- JOIN query on routes covered by an operator
 
+```
+
+## Foreign keys
+
+Foreign keys are disabled by default in [sqlite3](https://www.sqlite.org/foreignkeys.html). We first have to run 
+
+```
+PRAGMA foreign_keys = ON;
 ```

@@ -36,15 +36,15 @@ CREATE TABLE vehicles (
     plate_number CHAR(8) PRIMARY KEY,
     vehicle_type CHAR(3) CHECK (vehicle_type IN ('Bus', 'PUJ', 'UV')) NOT NULL,
     manufacturer VARCHAR(30) NOT NULL,
-    model VARCHAR(30) NOT NULL,
+    model VARCHAR(30),
     year INTEGER CHECK (year BETWEEN 0 AND 2024) NOT NULL,
     revenue DECIMAL(6, 2) CHECK (revenue >= 0) NOT NULL,
     engine_condition CHAR CHECK (engine_condition IN ('Good', 'Bad')) NOT NULL,
     seat_capacity INTEGER CHECK (seat_capacity BETWEEN 0 AND 999),
     operation_times CHAR(12) NOT NULL,
-    operator_number CHAR(8) NOT NULL,
-    route_id CHAR(8) NOT NULL,
-    FOREIGN KEY (model) REFERENCES components(model),
-    FOREIGN KEY (operator_number) REFERENCES operators(operator_number),
-    FOREIGN KEY (route_id) REFERENCES routes(route_id)
+    operator_number CHAR(8),
+    route_id CHAR(8),
+    FOREIGN KEY (model) REFERENCES components(model) ON DELETE SET NULL,
+    FOREIGN KEY (operator_number) REFERENCES operators(operator_number) ON DELETE SET NULL,
+    FOREIGN KEY (route_id) REFERENCES routes(route_id) ON DELETE SET NULL
 );
